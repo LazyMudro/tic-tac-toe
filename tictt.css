@@ -11,13 +11,10 @@
 }
 .x{
     background-size: cover;
-    background-image: url(./img/cross-mark-4251.png);
+    background-image: url(./cross-mark-4251.png);
 }
 .zero{
     background-size: cover;
     background-position: -16px 0;
-    background-image: url(./img/zanyatie-krug2.png);
-}
-.active{
-    background-color: black;
+    background-image: url(./zanyatie-krug2.png);
 }
